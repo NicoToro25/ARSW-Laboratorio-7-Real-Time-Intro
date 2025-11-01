@@ -17,6 +17,97 @@ ESCRIBIR SOLUCIÓN
 ## Estructura del laboratorio
 
 ```bash
+├───.idea
+├───introduccion
+│   └───introWebsockets
+│       ├───.mvn
+│       │   └───wrapper
+│       ├───img
+│       ├───src
+│       │   ├───main
+│       │   │   ├───java
+│       │   │   │   └───edu
+│       │   │   │       └───eci
+│       │   │   │           └───arsw
+│       │   │   │               └───introWebsockets
+│       │   │   │                   ├───components
+│       │   │   │                   ├───configuration
+│       │   │   │                   ├───controllers
+│       │   │   │                   └───endpoints
+│       │   │   └───resources
+│       │   │       └───static
+│       │   │           └───js
+│       │   └───test
+│       │       └───java
+│       │           └───edu
+│       │               └───eci
+│       │                   └───arsw
+│       │                       └───introWebsockets
+│       └───target
+│           ├───classes
+│           │   ├───edu
+│           │   │   └───eci
+│           │   │       └───arsw
+│           │   │           └───introWebsockets
+│           │   │               ├───components
+│           │   │               ├───configuration
+│           │   │               ├───controllers
+│           │   │               └───endpoints
+│           │   └───static
+│           │       └───js
+│           └───generated-sources
+│               └───annotations
+├───laboratorio7
+│   ├───.idea
+│   ├───.mvn
+│   │   └───wrapper
+│   ├───img
+│   ├───src
+│   │   ├───main
+│   │   │   ├───java
+│   │   │   │   └───edu
+│   │   │   │       └───eci
+│   │   │   │           └───arsw
+│   │   │   │               └───laboratorio7
+│   │   │   │                   ├───configurator
+│   │   │   │                   ├───controllers
+│   │   │   │                   └───endpoints
+│   │   │   └───resources
+│   │   │       └───static
+│   │   │           └───js
+│   │   └───test
+│   │       └───java
+│   │           └───edu
+│   │               └───eci
+│   │                   └───arsw
+│   │                       └───laboratorio7
+│   └───target
+│       ├───classes
+│       │   ├───edu
+│       │   │   └───eci
+│       │   │       └───arsw
+│       │   │           └───laboratorio7
+│       │   │               ├───configurator
+│       │   │               ├───controllers
+│       │   │               └───endpoints
+│       │   └───static
+│       │       └───js
+│       ├───dependency
+│       ├───generated-sources
+│       │   └───annotations
+│       ├───generated-test-sources
+│       │   └───test-annotations
+│       ├───maven-archiver
+│       ├───maven-status
+│       │   └───maven-compiler-plugin
+│       │       ├───compile
+│       │       │   └───default-compile
+│       │       └───testCompile
+│       │           └───default-testCompile
+│       └───test-classes
+└───out
+    └───production
+        └───Laboratorio7-Websockets
 
 ```
 ---
