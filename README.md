@@ -9,7 +9,7 @@
 
 ---
 
-En este repositorio se muestra la solución de la introducción a Websockets y al laboratorio 7. Para ver la información detallada
+En este repositorio se muestra la solución de la introducción a WebSockets y el laboratorio 7. Para ver la información detallada
 entrar en la carpeta introducción o laboratorio7 para encontrar el enunciado
 
 ESCRIBIR SOLUCIÓN
@@ -17,72 +17,6 @@ ESCRIBIR SOLUCIÓN
 ## Estructura del laboratorio
 
 ```bash
-├───.idea
-├───.mvn
-│   └───wrapper
-├───img
-├───src
-│   ├───main
-│   │   ├───java
-│   │   │   └───edu
-│   │   │       └───eci
-│   │   │           └───arsw
-│   │   │               └───blueprints
-│   │   │                   ├───controllers
-│   │   │                   ├───filter
-│   │   │                   │   └───impl
-│   │   │                   ├───model
-│   │   │                   ├───persistence
-│   │   │                   │   └───impl
-│   │   │                   └───services
-│   │   └───resources
-│   │       └───static
-│   │           └───js
-│   └───test
-│       └───java
-│           └───edu
-│               └───eci
-│                   └───arsw
-│                       └───blueprints
-│                           └───test
-│                               └───persistence
-│                                   └───impl
-└───target
-    ├───classes
-    │   ├───edu
-    │   │   └───eci
-    │   │       └───arsw
-    │   │           └───blueprints
-    │   │               ├───controllers
-    │   │               ├───filter
-    │   │               │   └───impl
-    │   │               ├───model
-    │   │               ├───persistence
-    │   │               │   └───impl
-    │   │               └───services
-    │   └───static
-    │       └───js
-    ├───generated-sources
-    │   └───annotations
-    ├───generated-test-sources
-    │   └───test-annotations
-    ├───maven-archiver
-    ├───maven-status
-    │   └───maven-compiler-plugin
-    │       ├───compile
-    │       │   └───default-compile
-    │       └───testCompile
-    │           └───default-testCompile
-    ├───surefire-reports
-    └───test-classes
-        └───edu
-            └───eci
-                └───arsw
-                    └───blueprints
-                        └───test
-                            └───persistence
-                                └───impl
-
 
 ```
 ---

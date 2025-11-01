@@ -1,4 +1,4 @@
-# Arquitecturas de Software (ARSW) - Laboratorio #7
+# Arquitecturas de Software (ARSW) - Introducción
 
 ## Spring, Websockets y ReactJS.
 
